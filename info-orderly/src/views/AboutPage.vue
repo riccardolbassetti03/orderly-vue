@@ -122,17 +122,17 @@ export default {
       team: [
         {
           name: 'Riccardo Bassetti',
-          role: 'Chief Technology Officer (CTO)',
+          role: 'Im the highest in the room',
           avatar: 'https://riccardolbassetti.github.io/3d-models/travis_scott.glb'
         },
         {
-          name: 'Gabriele Ferremi',
-          role: 'Technical Writer / Product Documentation Manager',
+          name: 'Gabriele',
+          role: 'Watch me like a movie',
           avatar: 'https://riccardolbassetti.github.io/3d-models/snoop_dogg.glb'
         },
         {
-          name: 'Nicola Fontana',
-          role: 'Chief Operating Officer (COO) / Lead Developer',
+          name: 'Nicola',
+          role: 'Just a Chill Guy',
           avatar: 'https://riccardolbassetti.github.io/3d-models/kanye_west_cutout.glb'
         }
       ]
@@ -257,4 +257,5 @@ h3,
   border-color: #f58907 !important;
 }
 </style>
+
 
